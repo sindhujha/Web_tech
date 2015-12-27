@@ -1,0 +1,203 @@
+body
+{
+background-color: #E2E2E2;
+}
+
+#outer_container
+{
+position: static;
+margin: 0 auto;
+width: 875px;
+display: block;
+
+}
+
+#left_container
+{
+width: 235px;
+background-color: white;
+margin: 10px;
+float: left;
+
+}
+
+#right_container
+{
+
+width: 600px;
+background-color: white;
+margin: 10px;
+float: left;
+}
+
+
+#left_box
+{
+width: 235px;
+background-color: white;
+padding: 0px;
+align: left;
+}
+
+#right_box
+{
+width: 600px;
+background-color: white;
+padding: 0px;
+align: right;
+}
+
+#left_box_links
+{
+list-style-type: none;
+text-align: right;
+padding-right: 20px;
+background-color: white;
+font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+font-size: 16px;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
+}
+
+#right_box_links
+{
+list-style-type: none;
+padding-left: 10px;
+padding-right: 20px;
+font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-variant: normal;
+font-weight: 500;
+background-color: white;
+
+
+}
+
+
+#top_image
+{
+width: 235px;
+height: 35px;
+background-color: white;
+}
+
+#bottom_image
+{
+width: 235px;
+height: 35px;
+margin:auto;
+display:block;
+background-color: white;
+}
+
+#header_image
+{
+width: 600px;
+height: 110px;
+background-color: white;
+}
+
+#footer_image
+{
+width: 600px;
+height: 110px;
+margin:auto;
+display:block;
+background-color: white;
+}
+
+#top_image img
+{
+position: relative;
+width: 235px;
+height: 35px;
+margin:auto;
+display:block;
+}
+
+#bottom_image img
+{
+width: 235px;
+height: 35px;
+margin:auto;
+display:block;
+}
+
+#header_image img
+{
+position: relative;
+width: 600px;
+height: 110px;
+margin:auto;
+display:block;
+}
+
+#footer_image img
+{
+width: 600px;
+height: 110px;
+margin:auto;
+display:block;
+}
+
+h2{
+margin-bottom: 0px;
+}
+
+p{
+margin-top: 8px;
+
+}
+
+#Home, #Reviews, #Deals, #Follow_Us, #Tip_Us, #Contact_Us  {
+padding-bottom: 10%;
+margin: 0px;
+}
+
+#top_text{  
+	position: relative;
+	left:163px;
+	bottom:20px;
+    	text-align:right;
+    	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;  
+    	font-size:20px;  
+    	color:black;  
+} 
+
+#right_header_text{
+	position: relative;
+	bottom:105px;
+	right: 422px;
+    	text-align:right;
+    	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;  
+    	font-size:28px;  
+    	color:black; 
+}
+#right_bottom_text{
+	position: relative;
+	bottom: 100px;
+	right: 55px;
+    	text-align:right;
+    	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;  
+    	font-size:18px;  
+    	color: #CFCFCF; 
+}
+
+#footer_links{
+	position: relative;
+	bottom: 45px;
+	right: 80px;
+    	text-align:right;
+    	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;  
+    	font-size:14px;  
+}
+#insider
+{
+color: grey;
+}
+
+a:link   {color:black; text-decoration: underline}
+a:visited {color:black; text-decoration: underline}
+a:active {color:black; text-decoration: underline}
